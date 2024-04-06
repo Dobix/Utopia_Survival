@@ -48,6 +48,8 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+StylizedAssets
+Stylized_PBR_Nature
 
 # Builds
 Build/*
